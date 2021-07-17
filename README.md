@@ -1,2 +1,1 @@
-# C20-Akash-Translate-Rotate
-translate &amp; rotate
+# C20-Student-boilerplate-code
